@@ -1,6 +1,6 @@
 "use client"
 
-import "./app.css"
+import "./App.css"
 import { useState, useEffect } from "react"
 import { gsap } from "gsap"
 import PokeForm from "./components/pokeForm"

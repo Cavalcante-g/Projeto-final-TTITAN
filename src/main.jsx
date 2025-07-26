@@ -5,7 +5,6 @@ import "./index.css"
 import "./App.css"
 import { createBrowserRouter, RouterProvider } from "react-router-dom"
 import PokemonPage from "./pages/PokemonPage.jsx"
-import './App.css'
 
 const router = createBrowserRouter([
   {
