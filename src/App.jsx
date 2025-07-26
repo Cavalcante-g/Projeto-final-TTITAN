@@ -3,7 +3,7 @@
 import "./App.css"
 import { useState, useEffect } from "react"
 import { gsap } from "gsap"
-import PokeForm from "./components/pokeForm"
+import PokeForm from "./components/PokeForm"
 import PokeReturn from "./components/PokeReturn"
 import NewPokemon from "./components/NewPokemon"
 
